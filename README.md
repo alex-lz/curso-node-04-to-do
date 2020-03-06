@@ -1,6 +1,6 @@
 ## Aplicación de consola(comandos) de un ToDo
 
-Aplicacion para crear tares por hacer
+Aplicacion para crear tareas por hacer
 
 
 Ejecuta este comando para instalar 
